@@ -19,5 +19,14 @@ United Air Lines - (UAL)
 ![UAL](Screenshots/UAL.jpg)
 
 
+Macavia - (Macavia)
+![UAL](Screenshots/Macavia.jpg)
 
+Ethiopian Airlines - (ETH)
+![UAL](Screenshots/ETH.jpg)
 
+Cayman Airways Cargo - (CAY)
+![UAL](Screenshots/CAY.jpg)
+
+Tasman Empire Airways Limited - (TEAL)
+![UAL](Screenshots/TEAL.jpg)
